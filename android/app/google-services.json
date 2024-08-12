@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626759180262",
+    "project_id": "fir-tutorial-d6f14",
+    "storage_bucket": "fir-tutorial-d6f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626759180262:android:8d0093226a6c007e13c027",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF73gwzgOPfn4x4QVnHbggs7-E3R4KmeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
